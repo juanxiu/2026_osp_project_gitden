@@ -1,7 +1,7 @@
 Flask 실습 제출 안내
 
 제출할 저장소 URL
-https://github.com/juanxiu/open_sw_platform
+https://github.com/juanxiu/2026_osp_project_gitden
 
 첨부할 스크린샷
 1. screenshots/product-registration.png (입력값과 사진 파일을 선택한 상품 등록 화면)
@@ -9,11 +9,7 @@ https://github.com/juanxiu/open_sw_platform
 
 제출은 팀에서 한 번만 한다.
 
-제출 전 확인
-과제 PDF는 저장소 이름을 2026_osp_project_[TeamName]으로 지정한다.
-현재 제공된 저장소 이름은 open_sw_platform이므로 이름 규칙과 다르다.
-교수님이 기존 이름 사용을 허용했는지 확인하거나, 팀과 상의해 저장소 이름을 변경한다.
-이름을 변경하면 제출 URL도 변경된 주소로 쓴다.
+저장소 이름은 과제의 2026_osp_project_[TeamName] 형식에 맞춰 작성했다.
 
 구현 확인
 - /에서 index.html 출력
